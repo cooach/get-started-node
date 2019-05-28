@@ -1,5 +1,7 @@
 ---
 applications:
- - name: GetStartedNode
+ - name: ToTbot
    random-route: true
+   instance: 1
    memory: 256M
+   
